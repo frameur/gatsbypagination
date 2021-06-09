@@ -15,7 +15,7 @@ const IndexPage = () => (
 
 
     <Seo title="Home" />
-    <h1>Hi Julie</h1>
+    <h1>Bonjour Julie</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <StaticImage
